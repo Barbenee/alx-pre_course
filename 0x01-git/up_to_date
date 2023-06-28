@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 git pull
+=======
+#!/bin/bash
+touch up_to_date
+>>>>>>> main
